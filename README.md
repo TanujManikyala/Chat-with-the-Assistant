@@ -1,4 +1,3 @@
-Here is a comprehensive document to upload on GitHub and submit for your assignment, including the code for the RAG model for a QA bot, along with the architectural details:
 
 ---
 
@@ -251,5 +250,3 @@ if submit:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
-
-Feel free to modify this document according to your needs and ensure that sensitive information like API keys is handled securely.
